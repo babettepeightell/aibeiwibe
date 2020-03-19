@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quohshoofa.open4j.com/sitemap.xml
